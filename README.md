@@ -21,3 +21,29 @@
     - Design Pattern
     - Data Structure & Algorithm
 9. 이후 할 것들 가이드라인 제시
+---
+# reference
+### 기본기초 교육 학습 
+- (JAVA)오픈튜토리얼 : https://opentutorials.org/course/1223
+- (JAVA)실전자바강자 : https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B0%95%EC%A2%8C/
+- (JAVA)자바입문 : http://tryhelloworld.co.kr/courses/%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8
+- (JAVA)자바중급 : http://tryhelloworld.co.kr/courses/%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89
+- (JAVA)JAVA8 인 액션 : http://book.daum.net/detail/book.do?bookid=BOK00024837994IN
+- (JAVA)텀 미니 프로젝트
+- (HTML5)HTML5 w3schools Tutorial : https://www.w3schools.com/html/html5_intro.asp
+- (CSS)CSS w3schools Tutorial : https://www.w3schools.com/css/default.asp
+- (JavaScript)자바스크립트 핵심 가이드 : http://book.naver.com/bookdb/book_detail.nhn?bid=6735541
+- (Spring)토비의 스프링 3.1 Vol. 1 : http://book.naver.com/bookdb/book_detail.nhn?bid=7006514
+- (Spring)토비의 스프링 3.1 Vol. 2 : http://book.naver.com/bookdb/book_detail.nhn?bid=7006515
+- (MySQL)
+
+### 면접 준비용 학습 
+- (JAVA)이펙티브 JAVA : http://www.yes24.com/24/goods/14283616 (집에서 따로 학습할것)
+- (JavaScript)자바스크립트 완벽 가이드 : http://book.naver.com/bookdb/book_detail.nhn?bid=4561033
+- (JavaScript)JavaScript Patterns : http://book.naver.com/bookdb/book_detail.nhn?bid=6618965
+- (JavaScript) High Performance JavaScript : http://book.naver.com/bookdb/book_detail.nhn?bid=4774270
+
+
+### 세미나 참석 
+- Seoul | Oracle Code 2017 | Live for the Code - https://developer.oracle.com/code/seoul?src1=SO:LI::MS:&src2=0&sc=SO:LI::MS:0&pcode=WWMK160928P00057
+
