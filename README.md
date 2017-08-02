@@ -36,6 +36,8 @@
 - 트레이닝 면접 
 - 면접에 자주 나오는 질문 준비하기
 - (JAVA)이펙티브 JAVA : http://www.yes24.com/24/goods/14283616 (집에서 따로 학습할것)
+- (JAVA)Head First Object Oriented Analysis & Design : http://www.yes24.com/24/goods/2593582?scode=032&OzSrank=2
+- (JAVA)Head First Design Patterns : http://www.yes24.com/24/goods/1778966?scode=032&OzSrank=1
 - (JavaScript) 자바스크립트 완벽 가이드 : http://book.naver.com/bookdb/book_detail.nhn?bid=4561033
 - (JavaScript) JavaScript Patterns : http://book.naver.com/bookdb/book_detail.nhn?bid=6618965
 - (JavaScript) High Performance JavaScript : http://book.naver.com/bookdb/book_detail.nhn?bid=4774270
