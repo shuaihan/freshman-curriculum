@@ -40,6 +40,7 @@
 - (JAVA)Head First Design Patterns : http://www.yes24.com/24/goods/1778966?scode=032&OzSrank=1
 - (JAVA)패턴을 활용한 리팩터링 : http://www.yes24.com/24/Goods/14752528?Acode=101
 - (JAVA)리팩토링 by 마틴파울러 : http://www.yes24.com/24/Goods/7951038?Acode=101
+- (JAVA)클린코드 : http://www.yes24.com/24/Goods/11681152?Acode=101
 - (JavaScript) 자바스크립트 완벽 가이드 : http://book.naver.com/bookdb/book_detail.nhn?bid=4561033
 - (JavaScript) JavaScript Patterns : http://book.naver.com/bookdb/book_detail.nhn?bid=6618965
 - (JavaScript) High Performance JavaScript : http://book.naver.com/bookdb/book_detail.nhn?bid=4774270
